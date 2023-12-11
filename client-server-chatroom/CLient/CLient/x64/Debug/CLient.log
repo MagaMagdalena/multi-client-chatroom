@@ -1,0 +1,10 @@
+﻿  Client.c
+C:\Users\merim\OneDrive - French Univercity In Armenia\Desktop\c_final\CLient\CLient\Client.c(12,9): warning C4101: 'msg_size': unreferenced local variable
+C:\Users\merim\OneDrive - French Univercity In Armenia\Desktop\c_final\CLient\CLient\Client.c(86,24): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\merim\OneDrive - French Univercity In Armenia\Desktop\c_final\CLient\CLient\Client.c(86,24): warning C4024: 'CreateThread': different types for formal and actual parameter 2
+C:\Users\merim\OneDrive - French Univercity In Armenia\Desktop\c_final\CLient\CLient\Client.c(86,75): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\merim\OneDrive - French Univercity In Armenia\Desktop\c_final\CLient\CLient\Client.c(86,75): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+C:\Users\merim\OneDrive - French Univercity In Armenia\Desktop\c_final\CLient\CLient\Client.c(72,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\merim\OneDrive - French Univercity In Armenia\Desktop\c_final\CLient\CLient\Client.c(92,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LINK : C:\Users\merim\OneDrive - French Univercity In Armenia\Desktop\c_final\CLient\x64\Debug\CLient.exe not found or not built by the last incremental link; performing full link
+  CLient.vcxproj -> C:\Users\merim\OneDrive - French Univercity In Armenia\Desktop\c_final\CLient\x64\Debug\CLient.exe
